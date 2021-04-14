@@ -1,5 +1,4 @@
-# APEXQL 言語選定用 parser
-
+# APEXQL 言語選定用
 ## 各parserテスト
 ```
 $ cd /parser-test
