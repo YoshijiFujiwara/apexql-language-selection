@@ -12,8 +12,9 @@ rl.question(
   `実行したいSQLを垂れ流しましょう！
 > `,
   (stmt) => {
-    const ast = parser.astify(stmt);
-    console.log(ast);
+    const ast:  = parser.astify(stmt);
+    // console.log(ast);
+    console.log(JSON.stringify(ast));
 
     rl.close();
   }

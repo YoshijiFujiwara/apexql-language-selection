@@ -1,11 +1,13 @@
-# 開始
+# APEXQL 言語選定用 parser
+
+## 各parserテスト
 ```
-$ cd /js-ts
+$ cd /parser-test
 $ yarn install
-$ node js-sql-parser.ts
+$ node node-sql-parser.ts # あるいは node js-sql-parser.ts
 ```
 
-- js-ts
+- ts
   - [taozhi8833998/node-sql-parser](https://github.com/taozhi8833998/node-sql-parser)
     - 動く
   - [JavaScriptor/js-sql-parser](https://github.com/JavaScriptor/js-sql-parser)

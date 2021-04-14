@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@codemix/ts-sql@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@codemix/ts-sql/-/ts-sql-1.0.0.tgz#e3dc3d0121209f69e4bf471cd071c5e2445561cc"
+  integrity sha512-vA+UQH9kRtFE8p5spQTq17b2KqMceQgXUG0VX42UPDfUUiFYN04j8BFd6kKRXsvdv+JWxrYcSQ5GzuJQUEd5Kg==
+
 "@types/node@^12.20.7":
   version "12.20.7"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.7.tgz#1cb61fd0c85cb87e728c43107b5fd82b69bc9ef8"
