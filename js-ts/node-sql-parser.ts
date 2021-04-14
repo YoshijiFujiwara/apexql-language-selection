@@ -13,7 +13,7 @@ rl.question(
 > `,
   (stmt) => {
     const ast = parser.astify(stmt);
-    console.log(JSON.stringify(ast));
+    console.log(ast);
 
     rl.close();
   }
