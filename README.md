@@ -1,7 +1,14 @@
 # APEXQL 言語選定用
+## DBMSのREPLテスト
+```
+$ cd ./dbms-test
+$ yarn install
+$ yarn ts src/repl.ts
+```
+
 ## 各parserテスト
 ```
-$ cd /parser-test
+$ cd ./parser-test
 $ yarn install
 $ node node-sql-parser.ts # あるいは node js-sql-parser.ts
 ```
